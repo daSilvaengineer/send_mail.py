@@ -1,7 +1,7 @@
 projeto-email-python/
-├── .gitignore
-├── README.md
-├── requirements.txt
-├── config.py.example
-└── src/
-    └── email_sender.py
+1 - ├── .gitignore
+2 - ├── README.md
+3 - ├── requirements.txt
+4 - ├── config.py.example
+5 - └── src/
+   5.1 - └── email_sender.py
