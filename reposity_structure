@@ -1,0 +1,7 @@
+projeto-email-python/
+├── .gitignore
+├── README.md
+├── requirements.txt
+├── config.py.example
+└── src/
+    └── email_sender.py
