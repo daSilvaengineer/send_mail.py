@@ -1,0 +1,7 @@
+#"python-dotenv>=0.19.0" exige a instalação da biblioteca python-dotenv na versão 0.19.0 ou superior.
+
+python-dotenv>=0.19.0
+
+Como instalar:
+
+pip install "python-dotenv>=0.19.0"
