@@ -1,0 +1,15 @@
+# Arquivo de exemplo de configuração
+# Renomeie para config.py e preencha com seus dados
+
+EMAIL_CONFIG = {
+    'remetente': 'seu_email@gmail.com',
+    'destinatario': 'destino@example.com',
+    'assunto': 'Assunto padrão do email'
+}
+
+# Configurações SMTP
+SMTP_CONFIG = {
+    'server': 'smtp.gmail.com',
+    'port': 587,
+    'timeout': 10
+}
